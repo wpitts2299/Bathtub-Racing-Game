@@ -63,8 +63,6 @@ William Pitts **did not serve as a Unity/C# game developer on the Spring 2026 ca
 
 The multiplayer game implementation was completed by developer members of the team. William's contribution focused on **project leadership, testing, documentation, stakeholder communication, requirements coordination, release preparation, and development of the project portfolio website**.
 
-This distinction is included to accurately represent individual contributions within the team project.
-
 ## About the Project
 
 Beginning in the 1960s and continuing into the early 1990s, bathtub races were a memorable part of student life at Southern Polytechnic State University.
